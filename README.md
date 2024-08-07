@@ -6,7 +6,9 @@ If you are a maintainer of open-source projects, add the label `first-timers-onl
 
 If you are not a programmer but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
-## Table of Contents:
+Adding some lines to showcase GitHub concepts.
+
+
 
 - [.NET](#net)
 - [Ansible](#ansible)
